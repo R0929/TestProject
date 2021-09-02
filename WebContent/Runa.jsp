@@ -10,6 +10,7 @@
 		<form>
 			名前:<input type="text" value="name" /><br>
 			パスワード:<input type="password" value="pass" />
+			<input type="submit" value="ログイン">
 		</form>
 	</body>
 </html>
