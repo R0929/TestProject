@@ -8,8 +8,8 @@
 	</head>
 	<body>
 		<form>
-			名前:<input type="text" value="name" /><br>
-			パスワード:<input type="password" value="pass" />
+			名前:<input type="text" name="name" /><br>
+			パスワード:<input type="password" name="pass" />
 			<input type="submit" value="ログイン">
 		</form>
 	</body>
